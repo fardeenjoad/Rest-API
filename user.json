@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Iphone 12",
+        "price": 846,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "Iphone X",
+        "price": 620,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "One Plus 9",
+        "price": 320,
+        "featured": true,
+        "company": "one plus"
+    },
+    {
+        "name": "S 24 Ultra",
+        "price": 1000,
+        "featured": true,
+        "company": "samsung"
+    },
+    
+    {
+        "name": "S 20",
+        "price": 800,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "Mi 8t",
+        "price": 400,
+        "featured": true,
+        "company": "mi"
+    },
+    {
+        "name": "Poco M3",
+        "price": 400,
+        "featured": true,
+        "company": "poco"
+    },
+    {
+        "name": "Dell P4",
+        "price": 620,
+        "featured": true,
+        "company": "dell"
+    },
+    
+    {
+        "name": "Watch",
+        "price": 204,
+        "company": "apple"
+    }
+]
